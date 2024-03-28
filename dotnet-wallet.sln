@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-wallet", "dotnet-wallet\dotnet-wallet.csproj", "{3F3AF4E0-81DF-4C15-BC64-0C865332B034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F3AF4E0-81DF-4C15-BC64-0C865332B034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3AF4E0-81DF-4C15-BC64-0C865332B034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3AF4E0-81DF-4C15-BC64-0C865332B034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3AF4E0-81DF-4C15-BC64-0C865332B034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1790287E-FA6B-407C-B993-0C65C59FE003}
+	EndGlobalSection
+EndGlobal
